@@ -2,3 +2,4 @@ banana
 葡萄
 西瓜
 用来测试使用git hash进行回滚
+苹果
